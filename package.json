@@ -1,0 +1,14 @@
+{
+  "name": "rollup-resolvedynamicimport-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup --config"
+  },
+  "author": "Pat Cavit <npm@patcavit.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.16.4"
+  }
+}
